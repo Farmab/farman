@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import altair as plt
 import matplotlib.pyplot as plt
 
 # Load the dataset
