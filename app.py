@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
-python -c "import matplotlib.pyplot as plt; print('Matplotlib is installed and working.')"
+
 
 
 # Load the dataset
