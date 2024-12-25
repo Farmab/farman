@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
+import altair as plt
 
 # Load the dataset
 data_file = "iphone.csv"
