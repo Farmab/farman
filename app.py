@@ -1,7 +1,8 @@
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
-pip install matplotlib
+python -c "import matplotlib.pyplot as plt; print('Matplotlib is installed and working.')"
+
 
 # Load the dataset
 data_file = "iphone.csv"
