@@ -2,13 +2,6 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 
-# Install required libraries dynamically
-try:
-    import pip
-    pip.main(['install', 'pandas', 'streamlit', 'matplotlib'])
-except Exception as e:
-    print(f"Error installing packages: {e}")
-
 # Load the dataset
 data_file = "iphone.csv"
 data = pd.read_csv(data_file)
