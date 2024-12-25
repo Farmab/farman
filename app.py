@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
+pip install matplotlib
 
 # Load the dataset
 data_file = "iphone.csv"
